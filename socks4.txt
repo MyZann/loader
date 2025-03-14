@@ -1,0 +1,2327 @@
+IP Address: 72.49.49.11
+Port: 31034
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.195.114.169
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.195.114.184
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.206.181.97
+Port: 64943
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.206.181.103
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.206.181.123
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.210.208.101
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.210.221.197
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.210.221.223
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.210.252.134
+Port: 46164
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.210.252.137
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 72.217.216.239
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 74.119.144.60
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:20:13
+
+IP Address: 98.162.25.23
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 98.162.25.29
+Port: 31679
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 98.170.57.231
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 98.170.57.249
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 109.224.12.170
+Port: 52015
+Country: Iraq
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 184.178.172.18
+Port: 15280
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 192.111.135.17
+Port: 18302
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 198.8.84.3
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 41.223.234.116
+Port: 37259
+Country: Burkina Faso
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 72.195.34.60
+Port: 27391
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:32
+
+IP Address: 74.119.147.209
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 78.83.242.229
+Port: 4145
+Country: Bulgaria
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:23:12
+
+IP Address: 103.17.90.6
+Port: 5678
+Country: Vietnam
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 103.114.96.125
+Port: 8291
+Country: Bangladesh
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 187.86.153.254
+Port: 30660
+Country: Brazil
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 187.95.136.46
+Port: 5678
+Country: Brazil
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 189.203.181.34
+Port: 1080
+Country: Mexico
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:08:13
+
+IP Address: 190.3.72.38
+Port: 3629
+Country: Argentina
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 36.67.14.195
+Port: 5678
+Country: Indonesia
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:24:13
+
+IP Address: 76.81.6.107
+Port: 31008
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:18:13
+
+IP Address: 77.104.75.97
+Port: 5678
+Country: Iran
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 82.130.202.219
+Port: 43429
+Country: Spain
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:22
+
+IP Address: 91.150.189.122
+Port: 60647
+Country: Poland
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 138.59.177.117
+Port: 5678
+Country: Honduras
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:10:12
+
+IP Address: 154.79.248.156
+Port: 5678
+Country: Kenya
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:13:12
+
+IP Address: 177.85.157.25
+Port: 4153
+Country: Brazil
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:13:12
+
+IP Address: 184.178.172.11
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:12:32
+
+IP Address: 185.97.114.179
+Port: 3629
+Country: Kazakhstan
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:16:12
+
+IP Address: 195.175.22.194
+Port: 5678
+Country: Turkey
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 195.219.98.27
+Port: 5678
+Country: Spain
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:18:13
+
+IP Address: 196.0.113.10
+Port: 31651
+Country: Uganda
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:23:12
+
+IP Address: 186.211.6.137
+Port: 4145
+Country: Brazil
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:29:22
+
+IP Address: 142.54.239.1
+Port: 4145
+Country: United States
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:33:32
+
+IP Address: 122.146.95.183
+Port: 4145
+Country: Taiwan
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:51:12
+
+IP Address: 187.122.105.181
+Port: 4153
+Country: Brazil
+Delay: 6
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:14:12
+
+IP Address: 184.181.217.206
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:12
+
+IP Address: 72.195.34.42
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:32
+
+IP Address: 72.195.34.58
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:32
+
+IP Address: 72.195.34.59
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:32
+
+IP Address: 184.178.172.25
+Port: 15291
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:12
+
+IP Address: 184.181.217.201
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 184.181.217.210
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 192.252.220.89
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:24
+
+IP Address: 202.131.246.250
+Port: 5678
+Country: Mongolia
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:09:12
+
+IP Address: 101.109.245.200
+Port: 4153
+Country: Thailand
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:12
+
+IP Address: 109.232.106.150
+Port: 52435
+Country: Russia
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:10:12
+
+IP Address: 178.176.134.67
+Port: 3629
+Country: Russia
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:19:12
+
+IP Address: 179.125.172.210
+Port: 4153
+Country: Brazil
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:10:12
+
+IP Address: 180.180.124.248
+Port: 49992
+Country: Thailand
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:23:32
+
+IP Address: 184.178.172.3
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:12
+
+IP Address: 184.178.172.14
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:12
+
+IP Address: 190.144.167.178
+Port: 5678
+Country: Colombia
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:20:14
+
+IP Address: 184.178.172.23
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:12
+
+IP Address: 184.181.217.213
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:12
+
+IP Address: 103.124.139.177
+Port: 4145
+Country: Indonesia
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:32:12
+
+IP Address: 184.178.172.26
+Port: 4145
+Country: United States
+Delay: 7
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:12
+
+IP Address: 190.104.26.227
+Port: 33638
+Country: Bolivia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:34:12
+
+IP Address: 69.61.200.104
+Port: 36181
+Country: United States
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:12
+
+IP Address: 103.127.23.10
+Port: 5678
+Country: India
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:32:12
+
+IP Address: 199.229.254.129
+Port: 4145
+Country: United States
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:12:22
+
+IP Address: 201.220.140.6
+Port: 30575
+Country: Honduras
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:22:12
+
+IP Address: 184.178.172.5
+Port: 15303
+Country: United States
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:10:32
+
+IP Address: 184.178.172.17
+Port: 4145
+Country: United States
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:12:22
+
+IP Address: 185.89.181.212
+Port: 5678
+Country: Italy
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:18:12
+
+IP Address: 188.133.160.22
+Port: 4145
+Country: Russia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:12
+
+IP Address: 103.37.82.134
+Port: 39873
+Country: India
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:26:13
+
+IP Address: 103.85.103.1
+Port: 5678
+Country: India
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:43:14
+
+IP Address: 46.173.35.229
+Port: 3629
+Country: Russia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:48:11
+
+IP Address: 95.188.82.147
+Port: 3629
+Country: Russia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:30:13
+
+IP Address: 103.36.10.198
+Port: 44550
+Country: Indonesia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 20:42:12
+
+IP Address: 105.234.156.109
+Port: 4145
+Country: Malawi
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:29:13
+
+IP Address: 152.200.177.162
+Port: 1080
+Country: Colombia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:27:12
+
+IP Address: 181.129.62.2
+Port: 47377
+Country: Colombia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:29:22
+
+IP Address: 185.186.17.57
+Port: 5678
+Country: Poland
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:29:12
+
+IP Address: 190.0.15.18
+Port: 5678
+Country: Colombia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 58.34.34.186
+Port: 10800
+Country: China
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:32:12
+
+IP Address: 101.109.41.137
+Port: 4153
+Country: Thailand
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:38:12
+
+IP Address: 103.154.113.245
+Port: 4153
+Country: Indonesia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:09:12
+
+IP Address: 105.29.93.193
+Port: 4145
+Country: South Africa
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:52:12
+
+IP Address: 194.190.169.197
+Port: 3701
+Country: Russia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:05:12
+
+IP Address: 102.219.33.118
+Port: 1080
+Country: Ghana
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:25:13
+
+IP Address: 103.53.110.45
+Port: 10801
+Country: India
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:27:12
+
+IP Address: 123.253.124.28
+Port: 5678
+Country: India
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:52:12
+
+IP Address: 175.144.198.226
+Port: 31694
+Country: Malaysia
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:02:12
+
+IP Address: 177.73.248.26
+Port: 55290
+Country: Brazil
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:12
+
+IP Address: 186.103.143.213
+Port: 4153
+Country: Chile
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:13:12
+
+IP Address: 195.114.9.184
+Port: 34445
+Country: Iran
+Delay: 8
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:18:13
+
+IP Address: 212.50.19.150
+Port: 4153
+Country: Bulgaria
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 18:37:12
+
+IP Address: 91.201.240.84
+Port: 5678
+Country: Ukraine
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:11:22
+
+IP Address: 91.224.179.175
+Port: 5678
+Country: Ukraine
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:23:12
+
+IP Address: 192.111.130.5
+Port: 17002
+Country: United States
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:17:32
+
+IP Address: 194.44.74.118
+Port: 1080
+Country: Ukraine
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:41:12
+
+IP Address: 212.102.103.134
+Port: 4153
+Country: Hungary
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:24:12
+
+IP Address: 78.128.124.108
+Port: 5678
+Country: Bulgaria
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:06:12
+
+IP Address: 91.211.177.33
+Port: 3629
+Country: Ukraine
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:30:13
+
+IP Address: 83.234.76.155
+Port: 4145
+Country: Russia
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:21:12
+
+IP Address: 88.213.214.254
+Port: 4145
+Country: Bulgaria
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:22:12
+
+IP Address: 109.94.182.128
+Port: 4145
+Country: Russia
+Delay: 9
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:45:13
+
+IP Address: 66.42.224.229
+Port: 41679
+Country: United States
+Delay: 10
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:12
+
+IP Address: 142.54.229.249
+Port: 4145
+Country: United States
+Delay: 10
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:18:33
+
+IP Address: 199.58.185.9
+Port: 4145
+Country: United States
+Delay: 10
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:18:33
+
+IP Address: 70.35.213.226
+Port: 4153
+Country: Canada
+Delay: 10
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:12
+
+IP Address: 170.254.92.198
+Port: 4153
+Country: Argentina
+Delay: 10
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:02:12
+
+IP Address: 68.1.210.163
+Port: 4145
+Country: United States
+Delay: 11
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:32
+
+IP Address: 70.166.167.55
+Port: 57745
+Country: United States
+Delay: 11
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:32
+
+IP Address: 72.195.34.35
+Port: 27360
+Country: United States
+Delay: 11
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:32
+
+IP Address: 72.195.34.41
+Port: 4145
+Country: United States
+Delay: 11
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:32
+
+IP Address: 213.210.67.186
+Port: 3629
+Country: Russia
+Delay: 11
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:35:13
+
+IP Address: 175.100.47.191
+Port: 5678
+Country: Cambodia
+Delay: 11
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:22
+
+IP Address: 174.77.111.198
+Port: 49547
+Country: United States
+Delay: 12
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:22
+
+IP Address: 38.83.108.89
+Port: 5678
+Country: United States
+Delay: 12
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:12
+
+IP Address: 184.178.172.28
+Port: 15294
+Country: United States
+Delay: 12
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:22:32
+
+IP Address: 184.181.217.220
+Port: 4145
+Country: United States
+Delay: 12
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:22:32
+
+IP Address: 139.255.94.122
+Port: 57853
+Country: Indonesia
+Delay: 12
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:34:12
+
+IP Address: 177.128.44.130
+Port: 31337
+Country: Brazil
+Delay: 12
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:12
+
+IP Address: 174.64.199.79
+Port: 4145
+Country: United States
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:22
+
+IP Address: 174.64.199.82
+Port: 4145
+Country: United States
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:22
+
+IP Address: 174.75.211.222
+Port: 4145
+Country: United States
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:22
+
+IP Address: 174.77.111.196
+Port: 4145
+Country: United States
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:22
+
+IP Address: 174.77.111.197
+Port: 4145
+Country: United States
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:22
+
+IP Address: 191.253.198.206
+Port: 5678
+Country: Brazil
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 191.7.208.102
+Port: 31576
+Country: Brazil
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:22:12
+
+IP Address: 200.80.227.234
+Port: 4145
+Country: Argentina
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:22:12
+
+IP Address: 176.236.37.132
+Port: 1080
+Country: Turkey
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:03:12
+
+IP Address: 177.99.160.98
+Port: 4145
+Country: Brazil
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:27:12
+
+IP Address: 186.1.182.194
+Port: 4153
+Country: Colombia
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:22:12
+
+IP Address: 188.75.186.152
+Port: 4145
+Country: Czech Republic
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:22:12
+
+IP Address: 212.103.118.77
+Port: 5678
+Country: Russia
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 103.174.36.112
+Port: 5678
+Country: Indonesia
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:12
+
+IP Address: 103.47.216.19
+Port: 4145
+Country: India
+Delay: 13
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:26:13
+
+IP Address: 98.175.31.195
+Port: 4145
+Country: United States
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:27:12
+
+IP Address: 98.178.72.21
+Port: 10919
+Country: United States
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:27:12
+
+IP Address: 98.181.137.80
+Port: 4145
+Country: United States
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:27:12
+
+IP Address: 98.181.137.83
+Port: 4145
+Country: United States
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:27:12
+
+IP Address: 98.188.47.132
+Port: 4145
+Country: United States
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:27:12
+
+IP Address: 98.188.47.150
+Port: 4145
+Country: United States
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:27:12
+
+IP Address: 41.73.253.234
+Port: 4145
+Country: Nigeria
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 18:03:12
+
+IP Address: 200.6.175.10
+Port: 59341
+Country: Colombia
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 177.72.82.9
+Port: 5678
+Country: Brazil
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:30:13
+
+IP Address: 202.131.159.58
+Port: 5678
+Country: India
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 82.204.198.28
+Port: 1080
+Country: Russia
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:12
+
+IP Address: 93.182.76.244
+Port: 5678
+Country: Turkey
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:12
+
+IP Address: 202.51.103.154
+Port: 5678
+Country: Indonesia
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 60.217.64.237
+Port: 35292
+Country: China
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 83.218.186.22
+Port: 5678
+Country: Austria
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:21:12
+
+IP Address: 93.171.241.18
+Port: 1080
+Country: Ukraine
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:12
+
+IP Address: 192.252.216.81
+Port: 4145
+Country: United States
+Delay: 14
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:28:32
+
+IP Address: 114.108.177.104
+Port: 60984
+Country: South Korea
+Delay: 15
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:49:12
+
+IP Address: 45.187.76.2
+Port: 3629
+Country: Argentina
+Delay: 15
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:26:13
+
+IP Address: 185.220.86.47
+Port: 5678
+Country: Spain
+Delay: 15
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:33:12
+
+IP Address: 131.0.246.113
+Port: 4153
+Country: Brazil
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:23:12
+
+IP Address: 50.250.205.21
+Port: 32100
+Country: United States
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:30:13
+
+IP Address: 143.255.140.28
+Port: 5678
+Country: Paraguay
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:18:12
+
+IP Address: 189.91.85.133
+Port: 31337
+Country: Brazil
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:51:12
+
+IP Address: 103.120.202.53
+Port: 5678
+Country: Bangladesh
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:42:22
+
+IP Address: 41.162.162.140
+Port: 4153
+Country: South Africa
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:38:12
+
+IP Address: 110.74.195.239
+Port: 51080
+Country: Cambodia
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:33:12
+
+IP Address: 181.205.190.54
+Port: 4153
+Country: Colombia
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:37:12
+
+IP Address: 186.211.199.118
+Port: 4145
+Country: Brazil
+Delay: 16
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:41:12
+
+IP Address: 140.206.81.178
+Port: 1080
+Country: China
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:44:12
+
+IP Address: 154.72.78.146
+Port: 5678
+Country: Tanzania
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:23:12
+
+IP Address: 103.81.117.225
+Port: 4153
+Country: India
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:24:13
+
+IP Address: 41.79.10.218
+Port: 4673
+Country: Kenya
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:32:12
+
+IP Address: 103.118.127.222
+Port: 4153
+Country: Indonesia
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:52:12
+
+IP Address: 103.160.41.138
+Port: 3829
+Country: Indonesia
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:03:12
+
+IP Address: 201.184.239.75
+Port: 5678
+Country: Colombia
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:45:13
+
+IP Address: 198.89.91.42
+Port: 5678
+Country: Kazakhstan
+Delay: 17
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:19:11
+
+IP Address: 83.143.24.29
+Port: 5678
+Country: Botswana
+Delay: 18
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:12
+
+IP Address: 154.70.214.105
+Port: 4145
+Country: South Africa
+Delay: 18
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:49:12
+
+IP Address: 89.237.35.145
+Port: 51549
+Country: Russia
+Delay: 18
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:42:12
+
+IP Address: 103.139.246.166
+Port: 5678
+Country: India
+Delay: 18
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:37:12
+
+IP Address: 213.250.198.66
+Port: 4145
+Country: Czech Republic
+Delay: 19
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:24:13
+
+IP Address: 103.4.118.130
+Port: 5678
+Country: Bangladesh
+Delay: 19
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:35:13
+
+IP Address: 188.92.110.174
+Port: 1080
+Country: Russia
+Delay: 19
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:48:12
+
+IP Address: 202.144.134.150
+Port: 5678
+Country: Bhutan
+Delay: 19
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:22:12
+
+IP Address: 62.122.201.246
+Port: 50129
+Country: Ukraine
+Delay: 20
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:30:23
+
+IP Address: 91.213.119.246
+Port: 46024
+Country: Ukraine
+Delay: 20
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:38:32
+
+IP Address: 212.39.114.139
+Port: 5678
+Country: Bosnia and Herzegovina
+Delay: 21
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:23:12
+
+IP Address: 36.92.96.179
+Port: 5678
+Country: Indonesia
+Delay: 21
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:10:12
+
+IP Address: 98.162.25.4
+Port: 31654
+Country: United States
+Delay: 21
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:32
+
+IP Address: 98.162.25.7
+Port: 31653
+Country: United States
+Delay: 21
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:32
+
+IP Address: 98.162.25.16
+Port: 4145
+Country: United States
+Delay: 21
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:32
+
+IP Address: 185.43.189.182
+Port: 3629
+Country: Azerbaijan
+Delay: 22
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:26:13
+
+IP Address: 203.112.134.74
+Port: 5678
+Country: India
+Delay: 22
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:36:12
+
+IP Address: 45.181.228.215
+Port: 4145
+Country: Brazil
+Delay: 22
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:35:13
+
+IP Address: 184.170.245.148
+Port: 4145
+Country: United States
+Delay: 23
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:27:32
+
+IP Address: 184.181.217.194
+Port: 4145
+Country: United States
+Delay: 23
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:27:32
+
+IP Address: 24.75.156.114
+Port: 3366
+Country: United States
+Delay: 23
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:09:11
+
+IP Address: 5.58.47.25
+Port: 3629
+Country: Ukraine
+Delay: 24
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:27:22
+
+IP Address: 159.192.97.129
+Port: 5678
+Country: Thailand
+Delay: 24
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:36:12
+
+IP Address: 183.88.247.52
+Port: 4153
+Country: Thailand
+Delay: 24
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:26:13
+
+IP Address: 190.12.95.170
+Port: 37209
+Country: Peru
+Delay: 24
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:32:12
+
+IP Address: 41.57.37.125
+Port: 5678
+Country: South Africa
+Delay: 24
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:11:12
+
+IP Address: 142.54.228.193
+Port: 4145
+Country: United States
+Delay: 25
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:32
+
+IP Address: 184.170.248.5
+Port: 4145
+Country: United States
+Delay: 25
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:32
+
+IP Address: 109.224.22.36
+Port: 51372
+Country: Iraq
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:35:13
+
+IP Address: 79.143.225.152
+Port: 31270
+Country: Russia
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:26:13
+
+IP Address: 103.115.252.26
+Port: 51372
+Country: Bangladesh
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:26:13
+
+IP Address: 183.88.240.139
+Port: 4153
+Country: Thailand
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:54:11
+
+IP Address: 202.40.177.94
+Port: 5678
+Country: Bangladesh
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:24:13
+
+IP Address: 68.71.247.130
+Port: 4145
+Country: United States
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:24:33
+
+IP Address: 81.16.1.71
+Port: 5678
+Country: Armenia
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:37:12
+
+IP Address: 222.252.25.9
+Port: 1080
+Country: Vietnam
+Delay: 26
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:26:12
+
+IP Address: 50.199.46.20
+Port: 32100
+Country: United States
+Delay: 27
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:32:12
+
+IP Address: 81.12.169.254
+Port: 4153
+Country: Romania
+Delay: 27
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:33:12
+
+IP Address: 154.159.243.94
+Port: 4673
+Country: Kenya
+Delay: 27
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:37:12
+
+IP Address: 45.172.176.1
+Port: 59341
+Country: Brazil
+Delay: 27
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:35:13
+
+IP Address: 31.210.134.114
+Port: 13080
+Country: United Kingdom
+Delay: 27
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:35:13
+
+IP Address: 111.68.31.134
+Port: 40385
+Country: Indonesia
+Delay: 27
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:39:12
+
+IP Address: 178.176.193.56
+Port: 1080
+Country: Russia
+Delay: 28
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:32:12
+
+IP Address: 103.82.11.209
+Port: 4153
+Country: Bangladesh
+Delay: 29
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:28:12
+
+IP Address: 142.54.232.6
+Port: 4145
+Country: United States
+Delay: 29
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:32
+
+IP Address: 185.132.1.221
+Port: 4145
+Country: Ukraine
+Delay: 29
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:29:12
+
+IP Address: 185.216.18.138
+Port: 44550
+Country: Russia
+Delay: 29
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:29:12
+
+IP Address: 186.96.124.242
+Port: 4153
+Country: Colombia
+Delay: 30
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:37:12
+
+IP Address: 81.16.9.222
+Port: 3629
+Country: Armenia
+Delay: 31
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:24:13
+
+IP Address: 201.144.20.231
+Port: 5678
+Country: Mexico
+Delay: 31
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:38:22
+
+IP Address: 187.44.211.118
+Port: 4153
+Country: Brazil
+Delay: 32
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:23:12
+
+IP Address: 37.17.53.108
+Port: 3629
+Country: Belarus
+Delay: 32
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:11:22
+
+IP Address: 45.187.71.208
+Port: 5678
+Country: Brazil
+Delay: 32
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:24:13
+
+IP Address: 102.128.173.1
+Port: 5678
+Country: South Africa
+Delay: 32
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:54:11
+
+IP Address: 24.249.199.4
+Port: 4145
+Country: United States
+Delay: 34
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:12:32
+
+IP Address: 193.105.62.11
+Port: 58973
+Country: Ukraine
+Delay: 34
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:12
+
+IP Address: 76.26.114.253
+Port: 39593
+Country: United States
+Delay: 34
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:44:12
+
+IP Address: 68.71.249.153
+Port: 48606
+Country: United States
+Delay: 34
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:12
+
+IP Address: 24.249.199.12
+Port: 4145
+Country: United States
+Delay: 35
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:12:32
+
+IP Address: 181.143.21.146
+Port: 4153
+Country: Colombia
+Delay: 35
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:48:12
+
+IP Address: 201.221.134.74
+Port: 5678
+Country: Colombia
+Delay: 35
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:21:12
+
+IP Address: 192.111.134.10
+Port: 4145
+Country: United States
+Delay: 36
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:19:21
+
+IP Address: 186.224.225.26
+Port: 42648
+Country: Brazil
+Delay: 36
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:13:12
+
+IP Address: 41.223.108.13
+Port: 1080
+Country: Somalia
+Delay: 37
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:12:12
+
+IP Address: 195.74.72.111
+Port: 5678
+Country: Ukraine
+Delay: 38
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:23:12
+
+IP Address: 86.110.189.154
+Port: 4145
+Country: Russia
+Delay: 39
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:21:12
+
+IP Address: 134.19.254.2
+Port: 4153
+Country: Georgia
+Delay: 39
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:33:22
+
+IP Address: 192.252.214.20
+Port: 15864
+Country: United States
+Delay: 40
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:18:13
+
+IP Address: 223.26.16.1
+Port: 5678
+Country: India
+Delay: 40
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:09:12
+
+IP Address: 103.124.137.251
+Port: 1080
+Country: Indonesia
+Delay: 40
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:29:12
+
+IP Address: 37.252.66.125
+Port: 46324
+Country: Armenia
+Delay: 41
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:42:12
+
+IP Address: 222.165.215.117
+Port: 52667
+Country: Indonesia
+Delay: 41
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:42:12
+
+IP Address: 50.235.117.234
+Port: 39593
+Country: United States
+Delay: 42
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:48:11
+
+IP Address: 198.8.94.170
+Port: 4145
+Country: United States
+Delay: 43
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:19:21
+
+IP Address: 154.113.179.218
+Port: 5678
+Country: Nigeria
+Delay: 43
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:51:12
+
+IP Address: 186.189.66.18
+Port: 4153
+Country: Argentina
+Delay: 44
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:13:12
+
+IP Address: 85.118.105.20
+Port: 45227
+Country: Georgia
+Delay: 46
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:05:12
+
+IP Address: 103.78.54.10
+Port: 4153
+Country: Bangladesh
+Delay: 46
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:30:13
+
+IP Address: 188.95.20.138
+Port: 5678
+Country: Italy
+Delay: 46
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:43:13
+
+IP Address: 206.220.175.2
+Port: 4145
+Country: United States
+Delay: 49
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:05:07
+
+IP Address: 184.170.249.65
+Port: 4145
+Country: United States
+Delay: 50
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:11:22
+
+IP Address: 104.37.135.145
+Port: 4145
+Country: United States
+Delay: 50
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:44:12
+
+IP Address: 88.255.102.114
+Port: 1082
+Country: Turkey
+Delay: 50
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:34:22
+
+IP Address: 85.100.40.12
+Port: 5678
+Country: Turkey
+Delay: 51
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:41:12
+
+IP Address: 185.226.113.180
+Port: 38030
+Country: Ukraine
+Delay: 52
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 15:12:11
+
+IP Address: 107.152.98.5
+Port: 4145
+Country: United States
+Delay: 53
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:45:13
+
+IP Address: 79.106.34.3
+Port: 4145
+Country: Albania
+Delay: 53
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:03:12
+
+IP Address: 201.13.147.161
+Port: 5678
+Country: Brazil
+Delay: 53
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:05:12
+
+IP Address: 67.201.33.10
+Port: 25283
+Country: United States
+Delay: 55
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:19:12
+
+IP Address: 142.54.237.34
+Port: 4145
+Country: United States
+Delay: 56
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:55:12
+
+IP Address: 103.169.189.102
+Port: 8080
+Country: Indonesia
+Delay: 65
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:42:12
+
+IP Address: 31.163.204.200
+Port: 4153
+Country: Russia
+Delay: 74
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:09:11
+
+IP Address: 45.180.23.209
+Port: 4145
+Country: Colombia
+Delay: 76
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:15:13
+
+IP Address: 95.143.8.182
+Port: 50285
+Country: Russia
+Delay: 78
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:24:12
+
+IP Address: 142.54.235.9
+Port: 4145
+Country: United States
+Delay: 78
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:55:12
+
+IP Address: 107.181.168.145
+Port: 4145
+Country: United States
+Delay: 79
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:45:13
+
+IP Address: 162.255.110.52
+Port: 5678
+Country: United States
+Delay: 82
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:58:12
+
+IP Address: 190.144.224.182
+Port: 44550
+Country: Colombia
+Delay: 92
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:52:12
+
+IP Address: 187.188.131.169
+Port: 1080
+Country: Mexico
+Delay: 100
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:51:12
+
+IP Address: 197.156.240.66
+Port: 5678
+Country: Nigeria
+Delay: 119
+Type: SOCKS4
+Anonymity: High
+Last Checked: 06.05.2024 07:10:32
+
+IP Address: 95.158.174.111
+Port: 1080
+Country: Bulgaria
+Delay: 120
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 14:24:12
+
+IP Address: 41.79.237.247
+Port: 1080
+Country: Guinea
+Delay: 129
+Type: SOCKS4
+Anonymity: High
+Last Checked: 10.05.2024 04:11:32
+
+IP Address: 185.32.4.65
+Port: 4153
+Country: Poland
+Delay: 141
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:25:12
+
+IP Address: 85.237.62.189
+Port: 3629
+Country: Russia
+Delay: 152
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:58:12
+
+IP Address: 62.103.186.66
+Port: 4153
+Country: Greece
+Delay: 173
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:50:12
+
+IP Address: 193.200.151.158
+Port: 8192
+Country: Ukraine
+Delay: 182
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:08:12
+
+IP Address: 89.151.134.157
+Port: 3629
+Country: Russia
+Delay: 227
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 18:24:12
+
+IP Address: 188.95.20.139
+Port: 5678
+Country: Italy
+Delay: 245
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:08:22
+
+IP Address: 84.236.185.247
+Port: 61710
+Country: Spain
+Delay: 255
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 16:43:13
+
+IP Address: 92.249.219.47
+Port: 59587
+Country: Hungary
+Delay: 459
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 17:23:12
+
+IP Address: 213.19.205.18
+Port: 54321
+Country: Netherlands
+Delay: 1152
+Type: SOCKS4
+Anonymity: High
+Last Checked: 05.05.2024 18:06:12
